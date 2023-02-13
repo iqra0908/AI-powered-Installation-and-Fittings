@@ -10,12 +10,9 @@ Luckily, we all cary our phones and finding out if a product will fit in the car
  In short, we will focus on resolving thw following two scenarios in this project.
 
  ## Scenario 1: Will this TV fit in my car?
-
- ![](data/TV-screen-size.jpg)
- ![](data/woofer-trunk-space-2-dimensions.jpg)
+<img src="data/TV-screen-size.jpg"  width="50%" height="50%"> <img src="data/woofer-trunk-space-2-dimensions.jpg"  width="50%" height="50%">
 
 
  ## Scenario 2: Will this window shade fit over my window?
- ![](data/window-shade.JPG)
- ![](data/window.jpeg)
- ![](data/window-shade-installed.jpeg)
+ <img src="data/window-shade.JPG"  width="50%" height="50%"> <img src="data/window.jpeg"  width="50%" height="50%">
+ <img src="data/window-shade-installed.jpeg"  width="50%" height="50%">
